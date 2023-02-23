@@ -1,5 +1,5 @@
 <script setup>
-const test = 3; // tettttt
+const test = 1; // tettttt
 </script>
 
 <template>
